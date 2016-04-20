@@ -1,0 +1,19 @@
+{
+  "uuid": "aca31e9e-6dc2-420e-b276-10b75cc39248",
+  "shortName": "PebbleCurtainsControl",
+  "longName": "PebbleCurtainsControl",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "enableMultiJS": true,
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
